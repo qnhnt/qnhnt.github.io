@@ -6,7 +6,7 @@
   <link href="https://qnhnt.github.io/atom.xml" rel="self"/>
   
   <link href="https://qnhnt.github.io/"/>
-  <updated>2022-08-11T06:12:18.537Z</updated>
+  <updated>2022-08-13T09:48:34.695Z</updated>
   <id>https://qnhnt.github.io/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hexo NexT主题升级8来添加Waline评论系统</title>
+    <link href="https://qnhnt.github.io/2022/08/13/Hexo-NexT%E4%B8%BB%E9%A2%98%E5%8D%87%E7%BA%A78%E6%9D%A5%E6%B7%BB%E5%8A%A0Waline%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F/"/>
+    <id>https://qnhnt.github.io/2022/08/13/Hexo-NexT%E4%B8%BB%E9%A2%98%E5%8D%87%E7%BA%A78%E6%9D%A5%E6%B7%BB%E5%8A%A0Waline%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F/</id>
+    <published>2022-08-13T08:17:16.000Z</published>
+    <updated>2022-08-13T09:48:34.695Z</updated>
+    
+    <content type="html"><![CDATA[<hr><p>####<font face="黑体">踩了好多报错，终于差不多了</font></p><p><font face="等线">搞这个博客，踩了一堆坑，最麻烦的是还没有学习前端知识，好不容易把这个blog弄好了，准备来给他来点小装饰，配置一个评论服务，主要是跟着Waline的<a href="https://waline.js.org/guide/get-started.html">官方文档</a>配置的，也参考了<a href="https://blog.csdn.net/jiunian_2761/article/details/122621667ops_request_misc=%257B%2522request%255Fid%2522%253A%2522166035256716782248536182%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fall.%2522%257D&request_id=166035256716782248536182&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~first_rank_ecpm_v1~pc_rank_34-2-122621667-null-null.142^v40^pc_rank_34_queryrelevant0,185^v2^control&utm_term=hexo%20.next%E4%B8%BB%E9%A2%98%E8%AF%84%E8%AE%BA%E5%8A%9F%E8%83%BDwaline&spm=1018.2226.3001.4449">CSDN一个教程的最后一步</a>，因为我懒得照着官方文档最后一步弄。:joy:<br>教程看他们的就够了，再就是按照CSDN博主教程的最后部署完，确实有Next v7.x版本报错，升级到Next v8.x版本就就解决了的问题。我是到那一步报错后看了评论，准备去升级Next的版本，值得注意的是Next v8.x版本是另外一个团队在维护，<a href="https://github.com/iissnan/hexo-theme-next">NexT v8.x</a>。对了想看看这个八卦的点点<a href="https://jmyblog.top/themeUpgrade/">这里</a>。<br>然后我就开始去下载v8.x的版本，官方安装文档有些许不那么好理解，所以我就去网上搜了一个看，我是不太习惯把主题配置文件放在博客目录下面的，就和’谁把钱丢了’差不多，毕竟前面弄的几个主题习惯的差不多了，这个主题说起来也是一把泪。v7.x的主题我也没弄多久，所以下载的v8.x的主题就相当于重新换了一个主题。<br>搞好这个后，我去配置Waline的评论服务，这个照着上面两个链接弄就行了，挺顺利的，就是如果去注册LeanCLoud的应用时，如果报错了，换一个浏览器试试。最后虽然还是有一点小差错，但还是差不多弄好了。<br>写这个还顺序学习了一下<a href="https://markdown.com.cn/">Markdown入门</a>。</font></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;hr&gt;
+&lt;p&gt;####&lt;font face=&quot;黑体&quot;&gt;踩了好多报错，终于差不多了&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font face=&quot;等线&quot;&gt;搞这个博客，踩了一堆坑，最麻烦的是还没有学习前端知识，好不容易把这个blog弄好了，准备来给他来点小装饰，配置一个评论服务，主要是跟着W</summary>
+      
+    
+    
+    
+    <category term="Hexo坑" scheme="https://qnhnt.github.io/categories/Hexo%E5%9D%91/"/>
+    
+    
+    <category term="Hexo" scheme="https://qnhnt.github.io/tags/Hexo/"/>
+    
+    <category term="Waline" scheme="https://qnhnt.github.io/tags/Waline/"/>
+    
+  </entry>
   
   <entry>
     <title>我的第一篇博客文章</title>
