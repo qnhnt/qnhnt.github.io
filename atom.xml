@@ -6,7 +6,7 @@
   <link href="https://qnhnt.github.io/atom.xml" rel="self"/>
   
   <link href="https://qnhnt.github.io/"/>
-  <updated>2022-08-13T14:31:18.301Z</updated>
+  <updated>2022-09-06T13:28:37.196Z</updated>
   <id>https://qnhnt.github.io/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>大二</title>
+    <link href="https://qnhnt.github.io/2022/09/06/%E5%A4%A7%E4%BA%8C/"/>
+    <id>https://qnhnt.github.io/2022/09/06/%E5%A4%A7%E4%BA%8C/</id>
+    <published>2022-09-06T13:17:26.798Z</published>
+    <updated>2022-09-06T13:28:37.196Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="随便写写"><a href="#随便写写" class="headerlink" title="随便写写"></a>随便写写</h1><p>大二刚开学一个星期左右了，全部都是专业课，有Java，数据库，前端三剑客，计网还有软件工程导论。但是有时候还是挺懒的，下课时间就是喜欢回寝室呆着，也不怎么学习，刚开始还会比较轻松，感觉后面再过一段时间，全是专业课，想学的还不错，起码得把进度赶在老师前面。我还想着用一些时间写一个主题，看情况吧还是。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;随便写写&quot;&gt;&lt;a href=&quot;#随便写写&quot; class=&quot;headerlink&quot; title=&quot;随便写写&quot;&gt;&lt;/a&gt;随便写写&lt;/h1&gt;&lt;p&gt;大二刚开学一个星期左右了，全部都是专业课，有Java，数据库，前端三剑客，计网还有软件工程导论。但是有时候还是挺懒的，下课时</summary>
+      
+    
+    
+    
+    <category term="闲谈" scheme="https://qnhnt.github.io/categories/%E9%97%B2%E8%B0%88/"/>
+    
+    
+    <category term="想法" scheme="https://qnhnt.github.io/tags/%E6%83%B3%E6%B3%95/"/>
+    
+  </entry>
   
   <entry>
     <title>Hexo-NexT v8.x搜索服务配置</title>
