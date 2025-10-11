@@ -2,6 +2,7 @@
 title: about
 description: hi.
 layout: default
+permalink: /about/
 ---
 
 我叫 taojunyi，来自中国，现在正在武汉读最后一个学期，马上就要毕业了。我喜欢养水生动物（鱼、龟之类的），还有就是写日记——纸质日记我有三本，虽然每一本都没有完全写完哈哈，线上 blog 是我在大一开始用的，但换了好几个站点却没一次坚持下来。
