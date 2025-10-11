@@ -1,0 +1,15 @@
+title: TaoJunYi
+description: webstie.
+lang: en
+locale: en_GB 
+url: "" 
+logo: /assets/images/catfish.png 
+
+baseurl: ""
+permalink: :title
+
+highlighter: rouge
+
+plugins:
+  - jekyll-feed
+  # - jekyll-sitemap
