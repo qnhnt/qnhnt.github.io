@@ -7,6 +7,8 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
+  jekyll
+  jekyll-sitemap
 
 BUNDLED WITH
    2.7.2

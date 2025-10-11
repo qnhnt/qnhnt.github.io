@@ -6,10 +6,11 @@ url: ""
 logo: /assets/images/catfish.png 
 
 baseurl: ""
+timezone: "Asia/Shanghai"
 permalink: :title
 
 highlighter: rouge
 
 plugins:
-  - jekyll-feed
-  # - jekyll-sitemap
+  # - jekyll-feed
+  - jekyll-sitemap
